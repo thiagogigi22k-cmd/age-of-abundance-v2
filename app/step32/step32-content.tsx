@@ -637,7 +637,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205869962:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205950634:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -666,7 +666,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881040:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951168:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -695,7 +695,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881049:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951171:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -724,7 +724,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881055:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951174:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
