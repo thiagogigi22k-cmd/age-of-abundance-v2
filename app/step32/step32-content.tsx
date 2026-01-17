@@ -637,7 +637,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://pay.hotmart.com/O103841643X?off=3r3vucax&checkoutMode=10"
+                  href="https://instituteabundance.mycartpanda.com/checkout/205869962:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -666,7 +666,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://pay.hotmart.com/O103841643X?off=43wjv2ub&checkoutMode=10"
+                  href="https://instituteabundance.mycartpanda.com/checkout/205881040:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -695,7 +695,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://pay.hotmart.com/O103841643X?off=jhkhzwg5&checkoutMode=10"
+                  href="https://instituteabundance.mycartpanda.com/checkout/205881049:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -724,7 +724,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://pay.hotmart.com/O103841643X?off=5g95pig3&checkoutMode=10"
+                  href="https://instituteabundance.mycartpanda.com/checkout/205881055:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
