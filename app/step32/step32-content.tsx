@@ -608,7 +608,7 @@ export default function Step32Content() {
                   <Image src="/images/qtpucbmv6eza55x7j5ca7m4q.png" alt="Barren Earth" fill className="object-cover" />
                 </div>
                 <a
-                  href="https://v0-ichoosethislife1.vercel.app/"
+                  href="https://ichoosethislife-v2.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
