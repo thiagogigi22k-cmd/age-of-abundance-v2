@@ -345,7 +345,7 @@ export default function Step32Content() {
 
           {/* And today section */}
           <div className="bg-[#1a1a2e]/60 rounded-xl p-5 border border-[#D4AF37]/30">
-            <p className="text-[#F9D423] text-2xl font-bold text-center mb-4">And today... 20...</p>
+            <p className="text-[#F9D423] text-2xl font-bold text-center mb-4">And today... {name}...</p>
             <p className="text-white text-lg text-center">
               <span className="mr-2">👉</span>It's your time.
             </p>
@@ -362,7 +362,7 @@ export default function Step32Content() {
             </h3>
 
             <div className="bg-[#0a0a14] rounded-2xl border border-[#D4AF37]/30 p-6 shadow-[0_0_15px_rgba(212,175,55,0.2)]">
-              <p className="text-gray-300 text-lg mb-4">20...</p>
+              <p className="text-gray-300 text-lg mb-4">{name}...</p>
               <p className="text-white text-lg mb-4">After everything you answered...</p>
               <p className="text-white text-lg mb-4">After every choice you made...</p>
               <p className="text-white text-lg mb-6">And after each of the pains and dreams you shared with us...</p>
@@ -455,7 +455,7 @@ export default function Step32Content() {
             </p>
 
             <div className="bg-[#1a1a2e]/80 rounded-xl p-5 border border-[#D4AF37]/30 text-center mb-8">
-              <p className="text-white text-lg mb-4">But... 20... since the beginning... we made a decision:</p>
+              <p className="text-white text-lg mb-4">But... {name}... since the beginning... we made a decision:</p>
               <p className="text-[#F9D423] text-xl font-bold italic mb-4">
                 We NEVER... under any circumstance... want money to be a barrier for someone to experience their
                 breakthrough.
@@ -506,7 +506,7 @@ export default function Step32Content() {
                 <span className="mr-2">👉</span>And the life you'll live tomorrow... will be the result of the choice
                 you make right now.
               </p>
-              <p className="text-[#F9D423] text-2xl font-bold text-center mb-4">So... 20...</p>
+              <p className="text-[#F9D423] text-2xl font-bold text-center mb-4">So... {name}...</p>
               <p className="text-[#F9D423] text-xl font-bold text-center">
                 <span className="mr-2">👉</span>Which life do you choose?
               </p>
@@ -528,7 +528,7 @@ export default function Step32Content() {
                 <span className="mr-2">👉</span>Lost everything... before receiving double.
               </p>
 
-              <p className="text-[#F9D423] text-xl font-bold text-center mb-2">Now... 20... it's your turn.</p>
+              <p className="text-[#F9D423] text-xl font-bold text-center mb-2">Now... {name}... it's your turn.</p>
               <p className="text-white text-lg text-center">This is your test.</p>
               <p className="text-white text-lg text-center">This is your moment.</p>
             </div>
@@ -565,7 +565,7 @@ export default function Step32Content() {
               <p className="text-[#F9D423] text-lg font-bold mb-4">
                 Your Divine Manifestation Script will be created and delivered directly to your email.
               </p>
-              <p className="text-white text-lg mb-4">20...</p>
+              <p className="text-white text-lg mb-4">{name}...</p>
               <p className="text-white text-lg mb-2">
                 <span className="mr-2">👉</span>Now... it's up to you.
               </p>
@@ -891,7 +891,7 @@ export default function Step32Content() {
             <br />
             everything you've told us,
             <br />
-            20..."
+            {name}..."
           </p>
           <Sparkles className="w-4 h-4 text-[#D4AF37] animate-spin-slow mt-1 flex-shrink-0" />
         </div>
