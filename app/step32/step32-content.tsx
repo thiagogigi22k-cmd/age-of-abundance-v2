@@ -535,7 +535,7 @@ export default function Step32Content() {
 
             <div className="bg-[#1a1a2e]/80 rounded-xl p-5 border-2 border-red-500/70 shadow-[0_0_15px_rgba(239,68,68,0.2)] mb-8">
               <p className="text-red-400 text-xl font-bold mb-4">Important for you to know:</p>
-              <p className="text-white text-lg mb-4">20...</p>
+              <p className="text-white text-lg mb-4">{name}...</p>
               <p className="text-white text-lg mb-2">
                 <span className="mr-2">👉</span>This page...
               </p>
