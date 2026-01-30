@@ -595,58 +595,7 @@ export default function Step32Content() {
 
             {/* Choice Cards */}
             <div className="w-full space-y-8">
-              {/* $0 Option - First (poorest) */}
-              <div className="cursor-pointer px-4">
-                <div
-                  className={`relative w-full aspect-[4/3] rounded-xl overflow-hidden border-4 border-[#F9D423] transition-all duration-500 ease-out origin-center ${
-                    selectedCard === 0 ? "scale-105 shadow-[0_0_25px_rgba(249,212,35,0.5)]" : ""
-                  }`}
-                  onClick={() => setSelectedCard(0)}
-                  onMouseEnter={() => setSelectedCard(0)}
-                  onMouseLeave={() => setSelectedCard(null)}
-                >
-                  <Image src="/images/qtpucbmv6eza55x7j5ca7m4q.png" alt="Barren Earth" fill className="object-cover" />
-                </div>
-                <a
-                  href="https://ichoosethislife-v2.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block"
-                >
-                  <button className="w-full bg-[#F9D423] text-black font-bold text-lg py-4 rounded-xl mt-6">
-                    This is the life I choose – $0
-                  </button>
-                </a>
-              </div>
-
-              {/* $27 Option */}
-              <div className="cursor-pointer px-4">
-                <div
-                  className={`relative w-full aspect-[4/3] rounded-xl overflow-hidden border-4 border-[#F9D423] transition-all duration-500 ease-out origin-center ${
-                    selectedCard === 27 ? "scale-105 shadow-[0_0_25px_rgba(249,212,35,0.5)]" : ""
-                  }`}
-                  onClick={() => setSelectedCard(27)}
-                  onMouseEnter={() => setSelectedCard(27)}
-                  onMouseLeave={() => setSelectedCard(null)}
-                >
-                  <Image
-                    src="/images/ymmmpsh8j8hrfm9kipssq7qc.png"
-                    alt="Growing Sprout"
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-                <a
-                  href="https://ageofabundance.mycartpanda.com/checkout/205950634:1"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block"
-                >
-                  <button className="w-full bg-[#F9D423] text-black font-bold text-lg py-4 rounded-xl mt-6">
-                    This is the life I choose – $27
-                  </button>
-                </a>
-              </div>
+              
 
               {/* $47 Option - Updated image to green tree with orange fruits */}
               <div className="cursor-pointer px-4">
@@ -654,8 +603,8 @@ export default function Step32Content() {
                   className={`relative w-full aspect-[4/3] rounded-xl overflow-hidden border-4 border-[#F9D423] transition-all duration-500 ease-out origin-center ${
                     selectedCard === 47 ? "scale-105 shadow-[0_0_25px_rgba(249,212,35,0.5)]" : ""
                   }`}
-                  onClick={() => setSelectedCard(47)}
-                  onMouseEnter={() => setSelectedCard(47)}
+                  onClick={() => setSelectedCard(7)}
+                  onMouseEnter={() => setSelectedCard(7)}
                   onMouseLeave={() => setSelectedCard(null)}
                 >
                   <Image
@@ -666,13 +615,13 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://ageofabundance.mycartpanda.com/checkout/205951168:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/206468076:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
                 >
                   <button className="w-full bg-[#F9D423] text-black font-bold text-lg py-4 rounded-xl mt-6">
-                    This is the life I choose – $47
+                    This is the life I choose – $7
                   </button>
                 </a>
               </div>
@@ -683,8 +632,8 @@ export default function Step32Content() {
                   className={`relative w-full aspect-[4/3] rounded-xl overflow-hidden border-4 border-[#F9D423] transition-all duration-500 ease-out origin-center ${
                     selectedCard === 77 ? "scale-105 shadow-[0_0_25px_rgba(249,212,35,0.5)]" : ""
                   }`}
-                  onClick={() => setSelectedCard(77)}
-                  onMouseEnter={() => setSelectedCard(77)}
+                  onClick={() => setSelectedCard(17)}
+                  onMouseEnter={() => setSelectedCard(17)}
                   onMouseLeave={() => setSelectedCard(null)}
                 >
                   <Image
@@ -695,13 +644,13 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://ageofabundance.mycartpanda.com/checkout/205951171:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/206468079:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
                 >
                   <button className="w-full bg-[#F9D423] text-black font-bold text-lg py-4 rounded-xl mt-6">
-                    This is the life I choose – $77
+                    This is the life I choose – $17
                   </button>
                 </a>
               </div>
@@ -712,8 +661,8 @@ export default function Step32Content() {
                   className={`relative w-full aspect-[4/3] rounded-xl overflow-hidden border-4 border-[#F9D423] transition-all duration-500 ease-out origin-center ${
                     selectedCard === 100 ? "scale-105 shadow-[0_0_25px_rgba(249,212,35,0.5)]" : ""
                   }`}
-                  onClick={() => setSelectedCard(100)}
-                  onMouseEnter={() => setSelectedCard(100)}
+                  onClick={() => setSelectedCard(27)}
+                  onMouseEnter={() => setSelectedCard(27)}
                   onMouseLeave={() => setSelectedCard(null)}
                 >
                   <Image
@@ -724,13 +673,13 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://ageofabundance.mycartpanda.com/checkout/205951174:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
                 >
                   <button className="w-full bg-[#F9D423] text-black font-bold text-lg py-4 rounded-xl mt-6">
-                    This is the life I choose – $100
+                    This is the life I choose – $27
                   </button>
                 </a>
               </div>
