@@ -673,7 +673,7 @@ export default function Step32Content() {
                   />
                 </div>
                 <a
-                  href="https://ageofabundance.mycartpanda.com/checkout"
+                  href="https://ageofabundance.mycartpanda.com/checkout/206468082:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
